@@ -436,7 +436,7 @@ This is reversible through targeted reactivation + operational fixes.
 - Customer return probability segmentation
 - Order value shift analysis (premium → budget)
 - SLA delay vs negative reviews correlation
-<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/95aebd06-0cd4-48a5-831d-c2547f1aac76" />
+<img width="1920" height="911" alt="image" src="https://github.com/Nagulasuprika/QuickBite-Crisis-Analysis/blob/6f83774f53d817496a6ca327c702352710ff081b/Strategic%20Recovery%20Insights.png" />
 
 ---
 
