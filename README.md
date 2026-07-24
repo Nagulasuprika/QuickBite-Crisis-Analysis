@@ -388,7 +388,7 @@ This is reversible through targeted reactivation + operational fixes.
 - Quick navigation to all analysis sections
 <img width="1907" height="920" alt="image" src= "https://github.com/Nagulasuprika/QuickBite-Crisis-Analysis/blob/a38e30b7980b3ec1f0c054bde1a7bff51f08743e/Home%20Page.png" />
 
-**Page 2: Executive Summary**
+**Page 2: Crisis Overview**
 - KPI cards: Total orders, revenue, rating, cancellations
 - Key metrics highlighted
 - Monthly revenue trend
@@ -415,7 +415,7 @@ This is reversible through targeted reactivation + operational fixes.
   <img width="1920" height="912" alt="image" src="https://github.com/Nagulasuprika/QuickBite-Crisis-Analysis/blob/af99110b044f96ecd282b634873fa5cd44840bb9/Operational%20Performance.png" />
 
 
-**Page 5: Restaurant Partnership Analysis**
+**Page 5: Restaurant Analysis**
 - Partner count by city
 - Restaurant retention rates
 - Cuisine-wise order comparison
@@ -431,7 +431,7 @@ This is reversible through targeted reactivation + operational fixes.
 <img width="1915" height="923" alt="image" src="https://github.com/Nagulasuprika/QuickBite-Crisis-Analysis/blob/b65c184dceb94a1303dd2e12c57d426177e71e3d/Customer%20Sentiment%20Analysis.png" />
 
 
-**Page 7: Recovery Insights**
+**Page 7: Strategic Recovery Insights**
 - Restaurant churn by type (cloud kitchen vs dine-in)
 - Customer return probability segmentation
 - Order value shift analysis (premium → budget)
