@@ -395,7 +395,7 @@ This is reversible through targeted reactivation + operational fixes.
 - Order volume comparison
 - Top affected cities
 - Revenue breakdown by component
-<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/abf48957-22a2-447c-a826-74ab4400b5e2" />
+<img width="1917" height="922" alt="image" src="https://github.com/Nagulasuprika/QuickBite-Crisis-Analysis/blob/36a942683cc0da6a3ad4c6db860460c83e1bb1fa/Crisis%20Overview.png" />
 
 
 
