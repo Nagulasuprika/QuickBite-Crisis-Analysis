@@ -386,7 +386,7 @@ This is reversible through targeted reactivation + operational fixes.
 
 **Page 1: Home**
 - Quick navigation to all analysis sections
-<img width="1907" height="920" alt="image" src="https://github.com/user-attachments/assets/7a7c6d15-312e-42d2-82b2-7ffb5b86bbf8" />
+<img width="1907" height="920" alt="image" src= "https://github.com/Nagulasuprika/QuickBite-Crisis-Analysis/blob/a38e30b7980b3ec1f0c054bde1a7bff51f08743e/Home%20Page.png" />
 
 **Page 2: Executive Summary**
 - KPI cards: Total orders, revenue, rating, cancellations
