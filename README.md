@@ -420,7 +420,7 @@ This is reversible through targeted reactivation + operational fixes.
 - Restaurant retention rates
 - Cuisine-wise order comparison
 - Restaurant risk categorization
-  <img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/dc7cb11b-d097-45a2-a01b-80e93212efac" />
+  <img width="1916" height="906" alt="image" src="https://github.com/Nagulasuprika/QuickBite-Crisis-Analysis/blob/7a9afbe8a3441318c18aed6ec341eb81a507bba0/Restaurant%20Analysis.png" />
 
 
 **Page 6: Customer Sentiment Analysis**
