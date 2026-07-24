@@ -428,7 +428,7 @@ This is reversible through targeted reactivation + operational fixes.
 - Review volume timeline
 - Negative review word cloud
 - Top negative keywords and themes
-<img width="1915" height="923" alt="image" src="https://github.com/user-attachments/assets/0ce8429e-b6ea-47aa-8fd1-79e80ba1716e" />
+<img width="1915" height="923" alt="image" src="https://github.com/Nagulasuprika/QuickBite-Crisis-Analysis/blob/b65c184dceb94a1303dd2e12c57d426177e71e3d/Customer%20Sentiment%20Analysis.png" />
 
 
 **Page 7: Recovery Insights**
