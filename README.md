@@ -465,30 +465,7 @@ This is reversible through targeted reactivation + operational fixes.
 | | Expected Recovery | 80-90% | Success target |
 | | ROI | 3-4x | Return on investment |
 
----
 
-## ❓ FAQ
-
-**Q: How was customer churn calculated?**  
-A: Customers who placed 1+ orders in pre-crisis (Jan-May) but ZERO orders in 
-crisis (Jun-Sep). Result: 73,000 churned out of 100,000 active = 73% churn.
-
-**Q: Why only 30% of customers are recoverable?**  
-A: Only those with 5+ pre-crisis orders AND 4.5+ rating qualify. These had 
-established loyalty and left due to failure, not preference. Others had weak 
-engagement or were already dissatisfied.
-
-**Q: How reliable is the ROI projection?**  
-A: Based on industry benchmarks (60% reactivation rate for food delivery crisis 
-recovery). Conservative estimate—actual could be higher with execution quality.
-
-**Q: What external data was used?**  
-A: Competitor financial reports, industry research papers, market analyses, 
-GST documentation, and peer company case studies. All properly cited.
-
-**Q: Can this strategy be adapted?**  
-A: Yes. The framework is transferable to other food delivery/e-commerce 
-crisis scenarios. Key adjustments needed for different markets/sectors.
 
 ---
 
