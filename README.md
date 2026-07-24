@@ -1,6 +1,6 @@
 
 # QuickBite Express - Crisis Recovery Analysis & Strategic Roadmap
-In June 2025, QuickBite Express lost 70% of its customer base in less than 90 days.
+In June 2025, QuickBite Express lost 69% of its customer base in less than 90 days.
 This repository contains my complete Power BI analysis of what went wrong — and how data can guide the recovery.
 
 **A comprehensive data-driven analysis of a food delivery startup's crisis 
@@ -85,8 +85,6 @@ crisis to:
 10. High-value customer (top 5%) decline patterns
 
 **Secondary Analysis (5 questions + 3 extra details):**
-- Competitor comparison (Swiggy, Zomato performance)
-- External factors contributing to CAC tripling
 - Most effective recovery strategies
 - Restaurant type churn risk assessment
 - Lapsed customer return probability
@@ -104,7 +102,7 @@ crisis to:
 |-----------|--------|-------------|---------|------------|
 | **Orders** | QuickBite transactional DB | Jan-Sep 2025 | 149K orders | order_id, customer_id, order_date, order_total, phase |
 | **Customers** | CRM system | Jan-Sep 2025 | 105K customers | customer_id, acquisition_date, total_spend, LTV |
-| **Reviews & Ratings** | Review system | Jan-Sep 2025 | 48K reviews | rating, sentiment, review_text, date |
+| **Reviews & Ratings** | Review system | Jan-Sep 2025 | 69K reviews | rating, sentiment, review_text, date |
 | **Restaurant Data** | Partner DB | Jan-Sep 2025 | 20K restaurants | restaurant_id, cuisine_type, order_count, status |
 | **Operational Metrics** | Delivery/Operations DB | Jan-Sep 2025 | Daily logs | delivery_time, sla_compliance, cancellations, delays |
 
@@ -115,9 +113,8 @@ crisis to:
 - **Crisis:** June - September 2025 (4 months of operational failure)
 
 **Customer Segmentation:**
-Total Customers:      105,000 (all unique customers)
-Active (Pre-Crisis):  100,000 (placed 1+ orders Jan-May)
-Active (Crisis):      27,000 (placed 1+ orders Jun-Sep)
+Total Customers:     105,000 (all unique customers)
+Active :             100,000 (placed 1+ non-cancelled orders )
 Churned:             73,000 (orders pre-crisis, ZERO orders crisis)
 New:                 18,000 (first order Jun-Sep 2025)
 Retained:            14,000 (orders in both periods)
@@ -229,35 +226,13 @@ Crisis Avg Rating:       2.30 → Negative Sentiment
 Sentiment Change:        -0.49 (1.42 point drop on -1 to +1 scale)
 
 **Keyword Analysis:**
-- Text parsing on 48K reviews
+- Text parsing on 69K reviews
 - Frequency analysis of negative keywords
 - Clustering by issue category (food quality, delivery, packaging, etc.)
 - Crisis vs pre-crisis comparison
 
 ---
 
-### 2. Customer Acquisition Cost (CAC) Analysis
-
-**CAC Formula:**
-CAC = Total Marketing Spend / Number of New Customers Acquired
-Pre-Crisis CAC Estimate:  ₹50 per customer
-Crisis CAC Estimate:      ₹150 per customer
-Increase:                 300% (₹50 → ₹150)
-**Contributing Factors (External Research-Backed):**
-
-| Factor | Impact | Source |
-|--------|--------|--------|
-| 18% GST Implementation (Sept 22) | +₹20 CAC | Business Standard, Sept 2025 |
-| Google Ads CPC +42% | +₹25 CAC | Market data, competitive bidding |
-| Monsoon Seasonality (-15-20% orders) | +₹15 CAC | Industry reports |
-| Brand Reputation Damage | +₹40 CAC | Calculated from conversion rate drop |
-| **Total** | **+₹100 (300%)** | |
-
-**Implication for Strategy:**
-Reactivation of existing customers (₹50/customer) is 3x more cost-effective 
-than acquiring new customers at ₹150/customer during crisis.
-
----
 
 ### 3. Recovery Strategy ROI Modeling
 
@@ -311,37 +286,6 @@ Cumulative ROI:        2.5-3x on total investment
 
 ---
 
-### 4. Competitive Benchmarking
-
-**Methodology:**
-- Analyzed public financial reports & news articles
-- Tracked market share and revenue growth trends
-- Researched competitor strategies during QuickBite's crisis period
-- Validated findings against industry reports
-
-**Competitors Analyzed:**
-
-**Zomato (Jun-Sep 2025):**
-- Market share: 58% (up from 56%)
-- Revenue growth: 67% YoY
-- July growth: 29% YoY
-- Status: Profitable
-- Strategy: Aggressive expansion, captured QuickBite market share
-
-**Swiggy (Jun-Sep 2025):**
-- Market share: 42% (maintained)
-- App installs: Increased 20-25% during crisis
-- Revenue growth: 35% YoY
-- Status: Improving profitability
-- Strategy: Capitalized on QuickBite operational failures
-
-**Impact on QuickBite:**
-- QuickBite app ranking: #3 → #8
-- Lost customers: 15-25% captured by competitors
-- Market consolidation: Favored larger, more stable platforms
-
----
-
 ## 📈 Key Findings
 
 ### Crisis Impact Summary
@@ -369,15 +313,6 @@ Cumulative ROI:        2.5-3x on total investment
 2. Negative review sentiment hit 90% by September
 3. Top complaints: Quality (1,596), Safety (1,076), Packaging (997)
 
-**Tertiary (Competitive):**
-1. Swiggy/Zomato captured 15-25% of lost customers
-2. Competitors' aggressive campaigns during crisis
-3. Market consolidation favored larger players
-
-**External (Market):**
-1. 18% GST on delivery (Sept 22) increased costs
-2. Google Ads CPC +42% from competitive bidding
-3. Monsoon seasonality reduced organic demand 15-20%
 
 ### Recovery Opportunity
 
@@ -510,75 +445,6 @@ This is reversible through targeted reactivation + operational fixes.
 - Order value shift analysis (premium → budget)
 - SLA delay vs negative reviews correlation
 <img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/95aebd06-0cd4-48a5-831d-c2547f1aac76" />
-
----
-
-## 📚 Sources & References
-
-### External Research (Secondary Analysis)
-
-#### 1. Competitor Market Share
-- **Source:** Inc42, "Food Delivery War: Zomato Extends Lead Over Swiggy With 58% Market Share" (November 2024)
-- **Data:** Zomato 58% market share, Swiggy 42%, growth rates
-- https://inc42.com/buzz/food-delivery-war-zomato-extends-lead-over-swiggy-with-58-market-share/
-  
-https://www.business-standard.com/companies/news/zomato-zooms-past-swiggy-in-terms-of-growth-in-july-captures-more-market-124082000895_1.html
-
-#### 2. GST Implementation Impact
-- **Source:** Business Standard, "Food delivery may get pricier as platforms hike fees, 18% GST adds burden" (September 2025)
-- **Data:** 18% GST effective September 22, 2025, impact on delivery costs
-- https://www.business-standard.com/economy/news/food-delivery-may-get-pricier-as-platforms-hike-fees-18-gst-adds-burden-125090700239_1.html
-  
-https://www.deccanherald.com/business/economy/online-food-delivery-charges-to-rise-when-new-gst-rules-take-effect-3713486
-
-#### 3. Food Safety Certification Standards
-- **Source:** QACS Global Solutions, "HACCP Certification in India: A 2025 Food Safety Guide" (June 2025)
-- **Data:** FSSAI requirements, HACCP certification process, trust impact metrics
-- https://qacsglobalsolutions.com/haccp-certification-india-2025/
-  
-https://www.restaurantindia.in/article/sustainable-restaurant-practices-that-attract-more-customers-in-2025.13308
-
-#### 4. Cloud Kitchen Market Analysis
-- **Source:** BBFT, "The Rise and Fall of Cloud Kitchens in India" (September 2024)
-- **Data:** Cloud kitchen vulnerability, commission impact, churn factors
-- https://www.bbft.in/2024/09/24/the-rise-and-fall-of-cloud-kitchens-in-india-a-business-perspective/
-  
-https://www.restaurantindia.in/article/how-cloud-kitchens-are-transforming-india-s-food-delivery-revolution.12960
-
-
-### Methodology References
-
-#### Statistical Analysis
-- **Churn Modeling:** Standard RFM (Recency, Frequency, Monetary) segmentation
-- **Risk Scoring:** Weighted composite scoring methodology
-- **ROI Calculation:** Standard financial modeling with industry benchmarks
-- **Probability Assessment:** Based on industry research and comparable cases
-
-#### Data Analysis Best Practices
-- **Comparative Analysis:** Pre/post crisis methodology
-- **Customer Segmentation:** Behavioral and financial clustering
-- **Sentiment Analysis:** Text frequency analysis with rating correlation
-- **Benchmark Validation:** Against industry peers and research reports
-
----
-
-### Deep Dive into Specific Areas
-
-**For Customer Analysis:**
-- Page 4 (Customer Impact) + Page 5 (VIP Impact)
-- Understanding segmentation criteria
-- Recovery opportunity identification
-
-**For Operational Insights:**
-- Page 6 (Operational Performance)
-- SLA and delivery metrics
-- Root cause of cancellations
-
-**For Strategic Understanding:**
-- Page 9 (Additional Insights)
-- Restaurant churn analysis
-- Customer behavior shifts
-- Competitive context
 
 ---
 
