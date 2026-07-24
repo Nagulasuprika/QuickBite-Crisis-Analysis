@@ -404,7 +404,7 @@ This is reversible through targeted reactivation + operational fixes.
 - City distribution
 - Customer status breakdown
 - High-value customer impact
-  <img width="1916" height="926" alt="image" src="https://github.com/user-attachments/assets/20d06770-f9fb-4770-be9c-6dfc03b8a69e" />
+  <img width="1916" height="926" alt="image" src="https://github.com/Nagulasuprika/QuickBite-Crisis-Analysis/blob/1e7ba128efa5363c7eec5c01cf4cac6520df2e3e/Customer%20Impact%20Analysis.png" />
 
 
 **Page 4: Top 5% Spent Customer Impact**
