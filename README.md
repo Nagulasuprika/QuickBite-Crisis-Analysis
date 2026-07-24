@@ -407,23 +407,15 @@ This is reversible through targeted reactivation + operational fixes.
   <img width="1916" height="926" alt="image" src="https://github.com/Nagulasuprika/QuickBite-Crisis-Analysis/blob/1e7ba128efa5363c7eec5c01cf4cac6520df2e3e/Customer%20Impact%20Analysis.png" />
 
 
-**Page 4: Top 5% Spent Customer Impact**
-- VIP customer metrics
-- Order frequency trends
-- Geographic and cuisine preferences
-- Monthly spending patterns
-  <img width="1918" height="925" alt="image" src="https://github.com/user-attachments/assets/2b923064-638f-472a-bce9-e7273809904e" />
-
-
-**Page 5: Operational Performance**
+**Page 4: Operational Performance**
 - SLA compliance trends
 - Delivery time analysis
 - Cancellation rates by city/vehicle
 - Monthly operational metrics table
-  <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/79b4a10b-d99a-4bd5-a44f-90b9588c658c" />
+  <img width="1920" height="912" alt="image" src="https://github.com/Nagulasuprika/QuickBite-Crisis-Analysis/blob/af99110b044f96ecd282b634873fa5cd44840bb9/Operational%20Performance.png" />
 
 
-**Page 6: Restaurant Partnership Analysis**
+**Page 5: Restaurant Partnership Analysis**
 - Partner count by city
 - Restaurant retention rates
 - Cuisine-wise order comparison
@@ -431,7 +423,7 @@ This is reversible through targeted reactivation + operational fixes.
   <img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/dc7cb11b-d097-45a2-a01b-80e93212efac" />
 
 
-**Page 7: Customer Sentiment Analysis**
+**Page 6: Customer Sentiment Analysis**
 - Rating trend over time
 - Review volume timeline
 - Negative review word cloud
@@ -439,7 +431,7 @@ This is reversible through targeted reactivation + operational fixes.
 <img width="1915" height="923" alt="image" src="https://github.com/user-attachments/assets/0ce8429e-b6ea-47aa-8fd1-79e80ba1716e" />
 
 
-**Page 8: Additional Insights**
+**Page 7: Recovery Insights**
 - Restaurant churn by type (cloud kitchen vs dine-in)
 - Customer return probability segmentation
 - Order value shift analysis (premium → budget)
