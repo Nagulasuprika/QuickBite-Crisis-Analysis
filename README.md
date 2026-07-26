@@ -181,12 +181,6 @@ THEN "Medium Return - Price Sensitive"
 Sample Size: 28,000 customers
 Rationale: Mixed experience, cost-conscious, can be won back
 
-**Medium Return Probability (40% return chance):**
-IF (Pre-Crisis Orders = 3-4) AND (Pre-Crisis Avg Rating ≥ 3.5) AND (Crisis Orders = 0)
-THEN "Medium Return - Price Sensitive"
-Sample Size: 28,000 customers
-Rationale: Mixed experience, cost-conscious, can be won back
-
 **Low Return Probability (15% return chance):**
 IF (Pre-Crisis Orders ≤ 2) AND (Pre-Crisis Avg Rating < 3.5)
 THEN "Low Return - Low Priority"
@@ -234,7 +228,7 @@ Sentiment Change:        -0.49 (1.42 point drop on -1 to +1 scale)
 ---
 
 
-### 3. Recovery Strategy ROI Modeling
+### 2. Recovery Strategy ROI Modeling
 
 #### Pillar 1: Customer Reactivation
 Target Segment:        22,000 high-probability customers
@@ -261,6 +255,7 @@ Total Investment:      ₹25-30M
 Expected SLA Improvement: 12% → 40%+
 Cancellation Reduction:   11.6% → <7%
 Timeline:                 6 months
+
 #### Pillar 4: Restaurant Support
 Commission Reduction:  5-10% for 6 months on <50 orders/month
 
