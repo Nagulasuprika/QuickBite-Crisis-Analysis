@@ -21,7 +21,7 @@ and evidence-based recovery strategy.**
 
 ---
 
-## 🎯 Project Overview
+## 🎯 1. Project Overview
 
 **Project Type:** Business Case Analysis | Data Analytics | Strategic Consulting  
 
@@ -59,7 +59,7 @@ to achieve 80-90% recovery within 6-9 months with 3-4x ROI on reactivation.
 
 ---
 
-## 💼 Problem Statement
+## 💼 2. Problem Statement
 
 ### Business Challenge
 
@@ -75,7 +75,8 @@ crisis to:
 
 ### Business Questions 
 
-**Primary Analysis (10 questions):**
+**Primary Analysis Questions:**
+
 1. Monthly order decline comparison (pre-crisis vs crisis)
 2. Top 5 cities by order decline percentage
 3. Top 10 high-volume restaurants with largest decline
@@ -87,7 +88,8 @@ crisis to:
 9. Loyalty impact on 5+ order customers with 4.5+ ratings
 10. High-value customer (top 5%) decline patterns
 
-**Secondary Analysis (5 questions + 3 extra details):**
+**Secondary Analysis Questions :**
+
 - Most effective recovery strategies
 - Restaurant type churn risk assessment
 - Lapsed customer return probability
