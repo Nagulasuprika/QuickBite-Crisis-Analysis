@@ -68,7 +68,7 @@ crisis to:
 5. **Recovery Strategy:** Design a data-backed turnaround plan with timelines & ROI
 6. **Operational Insights:** Identify systemic vulnerabilities to prevent recurrence
 
-### Analysis Questions Addressed
+### Business Questions 
 
 **Primary Analysis (10 questions):**
 1. Monthly order decline comparison (pre-crisis vs crisis)
