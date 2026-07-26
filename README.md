@@ -24,10 +24,15 @@ and evidence-based recovery strategy.**
 ## 🎯 Project Overview
 
 **Project Type:** Business Case Analysis | Data Analytics | Strategic Consulting  
+
 **Domain:** Food Delivery & Consumer Analytics  
+
 **Time Period Analyzed:** January - September 2025  
+
 **Focus:** Crisis Analysis & Recovery Strategy Development  
+
 **Tools Used:** Power BI, DAX, Statistical Analysis  
+
 **Audience:** Data Analysts, Business Strategists, Recruiters
 
 ### Executive Summary
