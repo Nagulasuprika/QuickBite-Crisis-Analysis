@@ -17,7 +17,7 @@ and evidence-based recovery strategy.**
 5. Key Findings
 6. Recommendations
 7. Technical Implementation
-8. Deliverables
+8. Dashboard Walkthrough
 
 ---
 
@@ -99,7 +99,7 @@ crisis to:
 
 ---
 
-## 📊 Dataset Description
+## 📊 3. Dataset Description
 
 ### Data Sources
 
@@ -137,7 +137,7 @@ Decline:              71%
 
 ---
 
-## 🔬 Methodology
+## 🔬 4. Methodology
 
 ### 1. Data Analysis Framework
 
@@ -286,7 +286,7 @@ Cumulative ROI:        2.5-3x on total investment
 
 ---
 
-## 📈 Key Findings
+## 📈 5. Key Findings
 
 ### Crisis Impact Summary
 
@@ -328,7 +328,7 @@ This is reversible through targeted reactivation + operational fixes.
 
 ---
 
-## 💡 Recommendations
+## 💡 6. Recommendations
 
 ### Immediate Actions (Month 1)
 
@@ -368,7 +368,7 @@ This is reversible through targeted reactivation + operational fixes.
 
 ---
 
-## 🛠️ Technical Implementation
+## 🛠️ 7. Technical Implementation
 
 ### Tools & Technologies Used
 
@@ -382,7 +382,7 @@ This is reversible through targeted reactivation + operational fixes.
 - **Calculations:** Statistical aggregations, trend analysis, probability scoring
 - **Modeling:** Customer lifetime value, churn probability, recovery potential
 
-### Dashboard Structure
+##  8. Dashboard Walkthrough
 
 **Page 1: Home**
 - Quick navigation to all analysis sections
